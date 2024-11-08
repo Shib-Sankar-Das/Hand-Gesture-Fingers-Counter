@@ -55,7 +55,7 @@ Hand gesture recognition is a powerful tool in various fields, including sign la
 ## Usage
 1. Run the program:
     ```bash
-    python HandGestureFingersCounter.py
+    python FingureCounter.py
     ```
 
 2. **Real-Time Gesture Recognition**:
