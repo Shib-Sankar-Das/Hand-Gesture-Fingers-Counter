@@ -39,7 +39,7 @@ Hand gesture recognition is a powerful tool in various fields, including sign la
 ## Installation
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/yourusername/HandGestureFingersCounter.git
+    git clone https://github.com/Shib-Sankar-Das/Hand-Gesture-Fingers-Counter.git
     ```
 
 2. **Install Required Packages**:
